@@ -1,2 +1,2 @@
 # Ion Prediction (To be updated)
-<img src="ion_prediction.png" width="800px">
+<img src="ionresnet.png" width="800px">
