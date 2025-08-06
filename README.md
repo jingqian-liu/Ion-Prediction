@@ -1,2 +1,2 @@
 # Ion Prediction (To be updated)
-![Ion Prediction](./ionresnet.svg)
+<img src="ion_prediction.png" width="800px">
